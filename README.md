@@ -10,6 +10,18 @@ SwiftUI niche pieces is a library that slightly extends the SwiftUI API in certa
 - Automatically apply cursor control to Searchable modifiers in iOS15
 - Enable Detent in iOS15 for SwiftUI half-modals, etc.
 
+## Installation
+
+Select "Use this Package" from the following site and follow the instructions.
+
+https://swiftpackageindex.com/bitkey-oss/swiftui-niche-pieces
+
+## Documentation
+
+Select "Documentation" from the following site and follow the instructions.
+
+https://swiftpackageindex.com/bitkey-oss/swiftui-niche-pieces
+
 ## Examples
 
 Sample Code Here
