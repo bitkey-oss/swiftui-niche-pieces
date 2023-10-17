@@ -1,5 +1,8 @@
 # SwiftUI niche pieces
 
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fbitkey-oss%2Fswiftui-niche-pieces%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/bitkey-oss/swiftui-niche-pieces)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fbitkey-oss%2Fswiftui-niche-pieces%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/bitkey-oss/swiftui-niche-pieces)
+
 SwiftUI niche pieces is a library that slightly extends the SwiftUI API in certain versions of SwiftUI, which can be a bit of an itch that "the next version has a solution" or "using UIKit would make it possible".
 
 ## What we can do now
